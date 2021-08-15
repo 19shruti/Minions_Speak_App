@@ -1,0 +1,80 @@
+
+
+body{
+    background-color: rgb(223, 196, 196);
+
+}
+.container{
+   
+  background-color:white;
+  
+   /* background-image: url(images/aet.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed; */
+    margin-top: 3%;
+   border:2px solid rgb(247, 243, 243);
+ padding-top: 5px;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-bottom: 2px;
+   margin-bottom: 3%;
+  
+   box-shadow: rgba(0, 0, 0, 0.6) 0px 8px 24px;
+   border-radius: 10px 10px 10px 10px;
+}
+.heading{
+    font-size: 2.3rem;
+    font-family: cursive; color: rgb(32, 24, 32);
+   text-align: center;
+}
+textarea{
+    text-decoration: rgb(184, 204, 8);
+    width: 90%;
+    display:block;
+    margin: 1%;
+    padding: 0.5rem;
+    height: 10vsh;
+}
+#OUTPUT{
+    border: 1px solid rgb(15, 15, 15) ;
+    width: 90%;
+    display: block;
+    padding: 0.9rem;
+    height: 10vh;
+    margin: 1%;
+    color: rgb(14, 12, 9);
+    font-size: 1.6rem;
+    font-family: monospace;   
+}
+#btn-translate{
+    border: 2px solid rgb(153, 125, 125);
+    padding: 10px,24px;
+    margin-left: 10px;
+
+}
+#btn-translate:hover{
+    background-color:rgb(211, 185, 236);
+    border:2px solid black;
+ 
+  }
+.about-minion{
+    color:rgb(56, 28, 56);
+    text-align: center;
+}
+
+img{
+    width:40%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.foo{
+    margin-top: 2%;
+    padding-top: 2px;
+    border:0.1px solid rgb(240, 233, 233);
+    
+   box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 2px;
+   border-radius: 20px 20px 20px 20px;
+  
+}
